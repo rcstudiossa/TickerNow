@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/menu/menu_album.xml",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/menu/menu_album.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/menu/menu_test.xml",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/menu/menu_test.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/menu/menu_teste_dash.xml",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/menu/menu_teste_dash.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/menu/menu_teste.xml",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/menu/menu_teste.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/menu/navigation.xml"
+    }
+]

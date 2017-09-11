@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

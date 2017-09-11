@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#990000</color>
+    <color name="colorPrimaryDark">#7a0000</color>
+    <color name="colorAccent">#7a0000</color>
+    <color name="colorControlNormal">#8c8c8c</color>
+    <color name="facebook_primary_blue">#3B5998</color>
+    <color name="google_red">#DB4437</color>
+    <color name="hint_gray">#8c8c8c</color>
+    <color name="text_red">#800000</color>
+    <color name="text_red_black">#1a0000</color>
+    <color name="gray">#666666</color>
+    <color name="bg_gray">#f2f2f2</color>
+    <color name="logo_orange">#fbb217</color>
+    <color name="bg_default">#fafafa</color>
+    <color name="text_gray">#333333</color>
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+
+
+
+
+
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+
+
+</resources>

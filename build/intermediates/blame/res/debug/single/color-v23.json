@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/roquesouza/.android/build-cache/c6d799842af324af623b6b2196b277f3bf44da0c/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/roquesouza/AndroidStudioProjects/TicketNow/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/roquesouza/.android/build-cache/a9f93c030d0221d3ac88c6328eb5dacc7290464c/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

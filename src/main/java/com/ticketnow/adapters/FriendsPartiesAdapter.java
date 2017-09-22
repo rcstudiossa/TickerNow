@@ -30,16 +30,16 @@ public class FriendsPartiesAdapter extends RecyclerView.Adapter<FriendsPartiesVi
         this.activity = activity;
         parties = new ArrayList<PartyModel>();
 
-        parties.add(new PartyModel(R.drawable.emicida_128, R.drawable.amigo1, "Emicida", "12/08 21h"));
-        parties.add(new PartyModel(R.drawable.o_rappa_128, R.drawable.amigo2, "O Rappa", "26/08 20h"));
-        parties.add(new PartyModel(R.drawable.marcelo_d2_128, R.drawable.amigo3, "Marcelo D2", "09/10 18h"));
-        parties.add(new PartyModel(R.drawable.annita_128, R.drawable.amigo4, "Anitta", "15/10 21h"));
-        parties.add(new PartyModel(R.drawable.villamix_128, R.drawable.amigo5, "VillaMix", "22/08 16h"));
-        parties.add(new PartyModel(R.drawable.emicida_128, R.drawable.amigo1, "Emicida", "12/08 21h"));
-        parties.add(new PartyModel(R.drawable.o_rappa_128, R.drawable.amigo2, "O Rappa", "26/08 20h"));
-        parties.add(new PartyModel(R.drawable.marcelo_d2_128, R.drawable.amigo3, "Marcelo D2", "09/10 18h"));
-        parties.add(new PartyModel(R.drawable.annita_128, R.drawable.amigo4, "Anitta", "15/10 21h"));
-        parties.add(new PartyModel(R.drawable.villamix_128, R.drawable.amigo5, "VillaMix", "22/08 16h"));
+        parties.add(new PartyModel(R.drawable.emicida_128, R.drawable.banner_emicida, "Emicida", "Parque de Exposições", "12/08 21h", "R$60-200", "342"));
+        parties.add(new PartyModel(R.drawable.o_rappa_128, R.drawable.banner_emicida, "O Rappa", "Barra Hall", "26/08 20h", "R$30-120", "160"));
+        parties.add(new PartyModel(R.drawable.marcelo_d2_128, R.drawable.banner_emicida, "Marcelo D2", "Arena Music Hall", "09/10 18h", "R$80-250", "658"));
+        parties.add(new PartyModel(R.drawable.annita_128, R.drawable.banner_emicida, "Anitta", "Parque de Exposições", "15/10 21h", "R$120-800", "1680"));
+        parties.add(new PartyModel(R.drawable.villamix_128, R.drawable.banner_emicida, "VillaMix", "Jardim dos Namorados", "22/08 16h", "R$80-400", "954"));
+        parties.add(new PartyModel(R.drawable.emicida_128, R.drawable.banner_emicida, "Emicida", "Parque de Exposições", "12/08 21h", "R$60-200", "342"));
+        parties.add(new PartyModel(R.drawable.o_rappa_128, R.drawable.banner_emicida, "O Rappa", "Barra Hall", "26/08 20h", "R$30-120", "160"));
+        parties.add(new PartyModel(R.drawable.marcelo_d2_128, R.drawable.banner_emicida, "Marcelo D2", "Arena Music Hall", "09/10 18h", "R$80-250", "658"));
+        parties.add(new PartyModel(R.drawable.annita_128, R.drawable.banner_emicida, "Anitta", "Parque de Exposições", "15/10 21h", "R$120-800", "1680"));
+        parties.add(new PartyModel(R.drawable.villamix_128, R.drawable.banner_emicida, "VillaMix", "Jardim dos Namorados", "22/08 16h", "R$80-400", "954"));
 
 
     }

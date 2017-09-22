@@ -63,7 +63,6 @@ public class PartyModel implements Serializable{
     public int getFriendThumb() {
         return friendThumb;
     }
-
     public void setFriendThumb(int friendThumb) {
         this.friendThumb = friendThumb;
     }

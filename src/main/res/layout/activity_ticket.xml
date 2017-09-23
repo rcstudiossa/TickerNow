@@ -56,7 +56,7 @@
         android:layout_marginStart="8dp" />
 
     <TextView
-        android:id="@+id/party_title"
+        android:id="@+id/party_local"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
@@ -74,8 +74,8 @@
         android:text="12/08 21h"
         android:textColor="@android:color/black"
         android:textSize="20sp"
-        app:layout_constraintLeft_toLeftOf="@+id/party_title"
-        app:layout_constraintTop_toBottomOf="@+id/party_title" />
+        app:layout_constraintLeft_toLeftOf="@+id/party_local"
+        app:layout_constraintTop_toBottomOf="@+id/party_local" />
 
     <TextView
         android:id="@+id/textView5"

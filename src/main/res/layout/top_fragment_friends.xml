@@ -5,9 +5,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
+    <include
+        android:id="@+id/rv_friends"
+        layout="@layout/recycler_view_friends"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Tab Amigos"/>
+        android:layout_alignParentLeft="true" />
 
 </LinearLayout>
